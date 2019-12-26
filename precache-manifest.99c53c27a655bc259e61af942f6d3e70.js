@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41daf2c002a374c3c7ca90f84ef705b4",
+    "revision": "7e590cfc35ece9c55775532f4ec4a30c",
     "url": "/solesteliving-project/index.html"
   },
   {
-    "revision": "7d846dee9a771fc70cdc",
+    "revision": "d8893c9baf5c7a85642e",
     "url": "/solesteliving-project/static/css/2.d635dcf5.chunk.css"
   },
   {
-    "revision": "a4f1dd86a72757b15382",
+    "revision": "18185da57cbe3e9e5bf0",
     "url": "/solesteliving-project/static/css/main.553a2764.chunk.css"
   },
   {
-    "revision": "7d846dee9a771fc70cdc",
-    "url": "/solesteliving-project/static/js/2.944bd187.chunk.js"
+    "revision": "d8893c9baf5c7a85642e",
+    "url": "/solesteliving-project/static/js/2.3d6c1a85.chunk.js"
   },
   {
-    "revision": "a4f1dd86a72757b15382",
-    "url": "/solesteliving-project/static/js/main.576c4696.chunk.js"
+    "revision": "18185da57cbe3e9e5bf0",
+    "url": "/solesteliving-project/static/js/main.7e32f87e.chunk.js"
   },
   {
     "revision": "766f9f6e7754db22a41c",
@@ -144,6 +144,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solesteliving-project/static/media/SectionGetInTouch-bg.91ab405e.jpg"
   },
   {
+    "revision": "bef5c193361d343914cebbfc33ea62d5",
+    "url": "/solesteliving-project/static/media/aaarena.bef5c193.jpg"
+  },
+  {
     "revision": "f851da9ef9ed799b592e84fce9794aa8",
     "url": "/solesteliving-project/static/media/about-header.f851da9e.jpg"
   },
@@ -196,8 +200,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solesteliving-project/static/media/app2-alameda-img-1.86a783f4.jpg"
   },
   {
-    "revision": "bb1b9782e913ac11075bd0d69ea02ff9",
-    "url": "/solesteliving-project/static/media/app2-alameda-img-2.bb1b9782.jpg"
+    "revision": "9df9d4723d5b5d378b23b368ac42e254",
+    "url": "/solesteliving-project/static/media/app2-alameda-img-2.9df9d472.jpg"
   },
   {
     "revision": "2d46ebc65e74846aaa1775cd8a483ae4",
@@ -208,8 +212,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solesteliving-project/static/media/app2-bayvillage-img-2.64544208.jpg"
   },
   {
-    "revision": "12846a6cfdca10f8d6e51c40708d824a",
-    "url": "/solesteliving-project/static/media/app2-blue-lagoon-img-1.12846a6c.jpg"
+    "revision": "ec5b5ef75f900f3b187d5ec3f419c947",
+    "url": "/solesteliving-project/static/media/app2-blue-lagoon-img-1.ec5b5ef7.jpg"
   },
   {
     "revision": "2061906b0159fd0875bf9e807fd9ee4b",
@@ -220,8 +224,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solesteliving-project/static/media/app2-grandcentral-img-1.e89dac02.jpg"
   },
   {
-    "revision": "84876257ecd3e8704aedaf9fc3622067",
-    "url": "/solesteliving-project/static/media/app2-grandcentral-img-2.84876257.jpg"
+    "revision": "e61f55e5f7fd764f3cd2b0a332e0c87f",
+    "url": "/solesteliving-project/static/media/app2-grandcentral-img-2.e61f55e5.jpg"
   },
   {
     "revision": "62fd18f2300019ae464bd2aa73dbbc4d",
@@ -232,20 +236,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solesteliving-project/static/media/app2-springgardens-img-1.73b3b1dd.jpg"
   },
   {
-    "revision": "a4fe1f9fa0be5c1a27cbae73b8b3a1f7",
-    "url": "/solesteliving-project/static/media/app2-springgardens-img-2.a4fe1f9f.jpg"
+    "revision": "564e9af99b3f69d9da7e348a3dadea78",
+    "url": "/solesteliving-project/static/media/app2-springgardens-img-2.564e9af9.jpg"
   },
   {
-    "revision": "4dc4ac84b1127d1ba91375534d0b949f",
-    "url": "/solesteliving-project/static/media/app2-twenty2-img-1.4dc4ac84.jpg"
+    "revision": "5ac86e32d076e1dc72c85edb985e40bf",
+    "url": "/solesteliving-project/static/media/app2-twenty2-img-1.5ac86e32.jpg"
   },
   {
-    "revision": "63d00763ccf9a336d106cc6745c94626",
-    "url": "/solesteliving-project/static/media/app2-twenty2-img-2.63d00763.jpg"
+    "revision": "f6e618e078779131844203508dff30cc",
+    "url": "/solesteliving-project/static/media/app2-twenty2-img-2.f6e618e0.jpg"
   },
   {
-    "revision": "913babf09f37e5308ce8fe6d8ab1a6be",
-    "url": "/solesteliving-project/static/media/app3About-img.913babf0.jpg"
+    "revision": "50e95551111dd9c01b820f6bfdd2dcb7",
+    "url": "/solesteliving-project/static/media/app3About-img.50e95551.jpg"
   },
   {
     "revision": "11911410dca2de148f30954eb2fd5eab",
@@ -256,6 +260,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solesteliving-project/static/media/arrow_right.8ef6a08c.svg"
   },
   {
+    "revision": "943c11825fb78e79bdbd6bd3e6e8878f",
+    "url": "/solesteliving-project/static/media/bayside.943c1182.jpg"
+  },
+  {
     "revision": "70d1859e1866a95809f7f4efbd22e5d7",
     "url": "/solesteliving-project/static/media/bayvillage-header-bg.70d1859e.jpg"
   },
@@ -264,12 +272,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solesteliving-project/static/media/bayvillage-left-img.1fc29fa5.jpg"
   },
   {
-    "revision": "b65f97627978f1b2d397a56554782938",
-    "url": "/solesteliving-project/static/media/bayvillage-mid-bottom-img.b65f9762.jpg"
+    "revision": "fa5f9d81b019de7d9396cb14857fc64f",
+    "url": "/solesteliving-project/static/media/bayvillage-mid-bottom-img.fa5f9d81.jpg"
   },
   {
-    "revision": "9119556a44d8f5f447c116ddb59e0a87",
-    "url": "/solesteliving-project/static/media/bayvillage-mid-top-img.9119556a.jpg"
+    "revision": "b8739f315c024dc3063d3d34a863afc9",
+    "url": "/solesteliving-project/static/media/bayvillage-mid-top-img.b8739f31.jpg"
   },
   {
     "revision": "7ea044c60bc7daab9fb554133bbbd53c",
@@ -306,6 +314,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "79b5c7d962f9468c8c4f7d90b86fc4e5",
     "url": "/solesteliving-project/static/media/contact-hader.79b5c7d9.jpg"
+  },
+  {
+    "revision": "7d8f3d11cfeedf3941a0752260d7b5f1",
+    "url": "/solesteliving-project/static/media/deeringstate.7d8f3d11.jpg"
   },
   {
     "revision": "38975343b586296e9b73e6b56cc3ec5d",
@@ -368,6 +380,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solesteliving-project/static/media/fa-solid-900.f14c3b2f.ttf"
   },
   {
+    "revision": "3d0c1d6c2ab8f4b34a1a04a125f43ce1",
+    "url": "/solesteliving-project/static/media/frost-science-museum.3d0c1d6c.jpg"
+  },
+  {
     "revision": "e775acf6cce3f600bbf774c87acde845",
     "url": "/solesteliving-project/static/media/granada-golf-course.e775acf6.jpg"
   },
@@ -392,8 +408,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solesteliving-project/static/media/grandcentral-right-img.cb385095.jpg"
   },
   {
+    "revision": "9277e28c39802bc6f45e53af47c9b743",
+    "url": "/solesteliving-project/static/media/jungle-island.9277e28c.jpg"
+  },
+  {
+    "revision": "1825b463a7db3fbb5bacb5e0ce23274e",
+    "url": "/solesteliving-project/static/media/miami-childrens-museum.1825b463.jpg"
+  },
+  {
+    "revision": "4a78e0199a9363884e2727068b0551d0",
+    "url": "/solesteliving-project/static/media/miami-zoo.4a78e019.jpg"
+  },
+  {
     "revision": "e53ca49f1d221c58f72a83d8f6045d91",
     "url": "/solesteliving-project/static/media/micracle-mile.e53ca49f.jpg"
+  },
+  {
+    "revision": "373413f111853586da1a41cc51636cda",
+    "url": "/solesteliving-project/static/media/perez-art-museum.373413f1.jpg"
+  },
+  {
+    "revision": "04b6cc5419a20d09eb4a6b6393da5835",
+    "url": "/solesteliving-project/static/media/seaquarium.04b6cc54.jpg"
   },
   {
     "revision": "dc701189be91937672703882d92d2910",
@@ -422,6 +458,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "93214107e99fd2552e1e14c92339d25d",
     "url": "/solesteliving-project/static/media/springgardens-right-img.93214107.jpg"
+  },
+  {
+    "revision": "40e1b8cb3b4487878ee98e71f25b8612",
+    "url": "/solesteliving-project/static/media/thefalls.40e1b8cb.jpg"
+  },
+  {
+    "revision": "b75bb109ffa07c68c39bfafd6b30bc65",
+    "url": "/solesteliving-project/static/media/tropical-park.b75bb109.jpg"
   },
   {
     "revision": "6cb08449c0b66aa1330e91d5a1854243",
@@ -460,8 +504,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solesteliving-project/static/media/z-home-soleste-alameda.a04f091b.jpg"
   },
   {
-    "revision": "9043a6e962eb829ade64a6ec39deaf03",
-    "url": "/solesteliving-project/static/media/z-home-soleste-bayvillage.9043a6e9.jpg"
+    "revision": "a53d93bd550e764d49a285e7b2dcd74f",
+    "url": "/solesteliving-project/static/media/z-home-soleste-bayvillage.a53d93bd.jpg"
   },
   {
     "revision": "77e8abe512542544d3fb6d5672037afb",
