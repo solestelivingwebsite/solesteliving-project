@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/solesteliving-project/precache-manifest.2cbb00ac5de33e7d9086273e88b658ed.js"
+  "/solesteliving-project/precache-manifest.f4f995277a377d0584cc6b5beda7d6b4.js"
 );
 
 self.addEventListener('message', (event) => {
