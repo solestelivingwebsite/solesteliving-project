@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a60ada601d48467848b4841ddc6fa64",
+    "revision": "06a380ddb453fd1c62aebe01384a8cba",
     "url": "/solesteliving-project/index.html"
   },
   {
-    "revision": "21aee4a5c150e125eea4",
+    "revision": "738a8f5113c6e31b0924",
     "url": "/solesteliving-project/static/css/2.d635dcf5.chunk.css"
   },
   {
-    "revision": "ed6a655fd5ecce923837",
-    "url": "/solesteliving-project/static/css/main.64fbcf03.chunk.css"
+    "revision": "87b74e522ce8392522d3",
+    "url": "/solesteliving-project/static/css/main.4e569066.chunk.css"
   },
   {
-    "revision": "21aee4a5c150e125eea4",
-    "url": "/solesteliving-project/static/js/2.17c1d39a.chunk.js"
+    "revision": "738a8f5113c6e31b0924",
+    "url": "/solesteliving-project/static/js/2.be1dc6ea.chunk.js"
   },
   {
-    "revision": "ed6a655fd5ecce923837",
-    "url": "/solesteliving-project/static/js/main.8776cb73.chunk.js"
+    "revision": "87b74e522ce8392522d3",
+    "url": "/solesteliving-project/static/js/main.904d215e.chunk.js"
   },
   {
     "revision": "766f9f6e7754db22a41c",
@@ -466,6 +466,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d9fe4013b292f458c5d1e3ce2a355152",
     "url": "/solesteliving-project/static/media/micracle-mile.d9fe4013.jpg"
+  },
+  {
+    "revision": "c1a5e638b0e5da7036b7a4e59c57fa65",
+    "url": "/solesteliving-project/static/media/mobile-1.c1a5e638.jpg"
+  },
+  {
+    "revision": "87d2ca81362a36a35b4d10fe49f9e118",
+    "url": "/solesteliving-project/static/media/mobile-2.87d2ca81.jpg"
+  },
+  {
+    "revision": "00eaeff0426b06b515026bf2cab728f8",
+    "url": "/solesteliving-project/static/media/mobile-3.00eaeff0.jpg"
+  },
+  {
+    "revision": "2bf0c6864cdd1b3ebc3addcbe5bb3a8e",
+    "url": "/solesteliving-project/static/media/mobile-4.2bf0c686.jpg"
   },
   {
     "revision": "55d61ce27c671e5f5a2713e7468b1ffe",
