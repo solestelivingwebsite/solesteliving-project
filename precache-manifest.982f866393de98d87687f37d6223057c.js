@@ -1,27 +1,87 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06a380ddb453fd1c62aebe01384a8cba",
+    "revision": "7e2bb42933fd3472791294a078ec86ab",
     "url": "/solesteliving-project/index.html"
   },
   {
-    "revision": "738a8f5113c6e31b0924",
+    "revision": "2c730d5b4eb1451066ed",
     "url": "/solesteliving-project/static/css/2.d635dcf5.chunk.css"
   },
   {
-    "revision": "87b74e522ce8392522d3",
-    "url": "/solesteliving-project/static/css/main.4e569066.chunk.css"
+    "revision": "e8db9b0185f618bb1654",
+    "url": "/solesteliving-project/static/css/main.ff0e87e5.chunk.css"
   },
   {
-    "revision": "738a8f5113c6e31b0924",
-    "url": "/solesteliving-project/static/js/2.be1dc6ea.chunk.js"
+    "revision": "2c730d5b4eb1451066ed",
+    "url": "/solesteliving-project/static/js/2.ba00594f.chunk.js"
   },
   {
-    "revision": "87b74e522ce8392522d3",
-    "url": "/solesteliving-project/static/js/main.904d215e.chunk.js"
+    "revision": "e8db9b0185f618bb1654",
+    "url": "/solesteliving-project/static/js/main.7721ab21.chunk.js"
   },
   {
     "revision": "766f9f6e7754db22a41c",
     "url": "/solesteliving-project/static/js/runtime~main.0b4ea1cb.js"
+  },
+  {
+    "revision": "10129c2aed670a15bcbd56fea0509759",
+    "url": "/solesteliving-project/static/media/BlueLagoon-1.10129c2a.jpg"
+  },
+  {
+    "revision": "5895b6f883b5b851b68685bdaf6929d7",
+    "url": "/solesteliving-project/static/media/BlueLagoon-10.5895b6f8.jpg"
+  },
+  {
+    "revision": "622d5eca0823908a6c9886ed4c8d89b9",
+    "url": "/solesteliving-project/static/media/BlueLagoon-11.622d5eca.jpg"
+  },
+  {
+    "revision": "55c43d8749ed7deac95dae8cd8d649b1",
+    "url": "/solesteliving-project/static/media/BlueLagoon-12.55c43d87.jpg"
+  },
+  {
+    "revision": "43941a35449c79c4c923ac8d0882ef3b",
+    "url": "/solesteliving-project/static/media/BlueLagoon-13.43941a35.jpg"
+  },
+  {
+    "revision": "d9a884df570ece5072fcd272331bb8c0",
+    "url": "/solesteliving-project/static/media/BlueLagoon-14.d9a884df.jpg"
+  },
+  {
+    "revision": "6647b94dabf5f51a5721579026edc301",
+    "url": "/solesteliving-project/static/media/BlueLagoon-15.6647b94d.jpg"
+  },
+  {
+    "revision": "8d1577b47364b51405e5daada2280857",
+    "url": "/solesteliving-project/static/media/BlueLagoon-2.8d1577b4.jpg"
+  },
+  {
+    "revision": "01118fc47ea9d33596cd53742a3f216c",
+    "url": "/solesteliving-project/static/media/BlueLagoon-3.01118fc4.jpg"
+  },
+  {
+    "revision": "a65662663972bc2ab519291a6f083de8",
+    "url": "/solesteliving-project/static/media/BlueLagoon-4.a6566266.jpg"
+  },
+  {
+    "revision": "6c2cff50738e28c5743e3996bf2367bd",
+    "url": "/solesteliving-project/static/media/BlueLagoon-5.6c2cff50.jpg"
+  },
+  {
+    "revision": "7346e269dcf73d7b55cf6318f257429a",
+    "url": "/solesteliving-project/static/media/BlueLagoon-6.7346e269.jpg"
+  },
+  {
+    "revision": "e387615145130957ede2020dbdeca8f9",
+    "url": "/solesteliving-project/static/media/BlueLagoon-7.e3876151.jpg"
+  },
+  {
+    "revision": "d260251d64ed987e1b1461c566d8c5fe",
+    "url": "/solesteliving-project/static/media/BlueLagoon-8.d260251d.jpg"
+  },
+  {
+    "revision": "222e27688975ff87b361ba475afd8d3f",
+    "url": "/solesteliving-project/static/media/BlueLagoon-9.222e2768.jpg"
   },
   {
     "revision": "56f46dad1eaa2583d805f93b57a6e231",
@@ -142,6 +202,66 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "70f22eb05a579da55b47ebbe284d6d06",
     "url": "/solesteliving-project/static/media/SectionGetInTouch-bg.70f22eb0.jpg"
+  },
+  {
+    "revision": "d614fac619b83fc3c2b964f2b42d7f71",
+    "url": "/solesteliving-project/static/media/Twenty2-1.d614fac6.jpg"
+  },
+  {
+    "revision": "8bc531ef951b6bd6046bf4beb23da0b9",
+    "url": "/solesteliving-project/static/media/Twenty2-10.8bc531ef.jpg"
+  },
+  {
+    "revision": "06bc9a8bb1b331dbf04914105814ee4b",
+    "url": "/solesteliving-project/static/media/Twenty2-11.06bc9a8b.jpg"
+  },
+  {
+    "revision": "e1f49ad7d5b7b58321c188e1b2a0d8b7",
+    "url": "/solesteliving-project/static/media/Twenty2-12.e1f49ad7.jpg"
+  },
+  {
+    "revision": "9ab8d099c283c9a380654a9cb83698cc",
+    "url": "/solesteliving-project/static/media/Twenty2-13.9ab8d099.jpg"
+  },
+  {
+    "revision": "6cc1fe96d3c54ed71070cd9e58b3e7c1",
+    "url": "/solesteliving-project/static/media/Twenty2-14.6cc1fe96.jpg"
+  },
+  {
+    "revision": "7e89dd0f4a7506e054d73ac87eca3e74",
+    "url": "/solesteliving-project/static/media/Twenty2-15.7e89dd0f.jpg"
+  },
+  {
+    "revision": "50c688fbffeedafa8545f8cacfcb137d",
+    "url": "/solesteliving-project/static/media/Twenty2-2.50c688fb.jpg"
+  },
+  {
+    "revision": "2d832d5bf4e1b950f41f835554933887",
+    "url": "/solesteliving-project/static/media/Twenty2-3.2d832d5b.jpg"
+  },
+  {
+    "revision": "0c54c9fdd290cbf21eb4b2fe36e6b765",
+    "url": "/solesteliving-project/static/media/Twenty2-4.0c54c9fd.jpg"
+  },
+  {
+    "revision": "390d00351e55fa494b827d23f37f04aa",
+    "url": "/solesteliving-project/static/media/Twenty2-5.390d0035.jpg"
+  },
+  {
+    "revision": "9e0f33bbb069e8414f1aa8109afa37b4",
+    "url": "/solesteliving-project/static/media/Twenty2-6.9e0f33bb.jpg"
+  },
+  {
+    "revision": "b3549662cabf5a98f9583e3ef28c36f0",
+    "url": "/solesteliving-project/static/media/Twenty2-7.b3549662.jpg"
+  },
+  {
+    "revision": "78162abfad720a5af030ab6782508eaf",
+    "url": "/solesteliving-project/static/media/Twenty2-8.78162abf.jpg"
+  },
+  {
+    "revision": "52be2acddbba67b85979327d9de44e51",
+    "url": "/solesteliving-project/static/media/Twenty2-9.52be2acd.jpg"
   },
   {
     "revision": "f8aea787e63024a227d33bca0dc5701a",
@@ -298,10 +418,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8245cd38f46d077fad6690d3354c0be6",
     "url": "/solesteliving-project/static/media/bluelagoon-left-img.8245cd38.jpg"
-  },
-  {
-    "revision": "b43dd60ecaf6253d31e098d7d47735ac",
-    "url": "/solesteliving-project/static/media/bluelagoon-mid-bottom-img.b43dd60e.jpg"
   },
   {
     "revision": "148cb760ac2163305dde1275d1f5f508",
@@ -538,10 +654,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ed4852eccaf08403885a49609c14c600",
     "url": "/solesteliving-project/static/media/twenty2-left-img.ed4852ec.jpg"
-  },
-  {
-    "revision": "db98c87d8c1230596520ae0062048cda",
-    "url": "/solesteliving-project/static/media/twenty2-mid-bottom-img.db98c87d.jpg"
   },
   {
     "revision": "b6b7c3832c2a23f323d58fb1d434a805",
