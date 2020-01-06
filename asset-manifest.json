@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/solesteliving-project/static/css/main.7956b713.chunk.css",
+    "main.css": "/solesteliving-project/static/css/main.4a93ebb1.chunk.css",
     "main.js": "/solesteliving-project/static/js/main.9fb8910d.chunk.js",
     "main.js.map": "/solesteliving-project/static/js/main.9fb8910d.chunk.js.map",
     "runtime~main.js": "/solesteliving-project/static/js/runtime~main.0b4ea1cb.js",
@@ -9,10 +9,10 @@
     "static/js/2.ba00594f.chunk.js": "/solesteliving-project/static/js/2.ba00594f.chunk.js",
     "static/js/2.ba00594f.chunk.js.map": "/solesteliving-project/static/js/2.ba00594f.chunk.js.map",
     "index.html": "/solesteliving-project/index.html",
-    "precache-manifest.fd9d5ee82801c48e5ef429a1fb4d847b.js": "/solesteliving-project/precache-manifest.fd9d5ee82801c48e5ef429a1fb4d847b.js",
+    "precache-manifest.d837a73f9f002949c7f2d26389d32f13.js": "/solesteliving-project/precache-manifest.d837a73f9f002949c7f2d26389d32f13.js",
     "service-worker.js": "/solesteliving-project/service-worker.js",
     "static/css/2.d635dcf5.chunk.css.map": "/solesteliving-project/static/css/2.d635dcf5.chunk.css.map",
-    "static/css/main.7956b713.chunk.css.map": "/solesteliving-project/static/css/main.7956b713.chunk.css.map",
+    "static/css/main.4a93ebb1.chunk.css.map": "/solesteliving-project/static/css/main.4a93ebb1.chunk.css.map",
     "static/media/BlueLagoon-1.jpg": "/solesteliving-project/static/media/BlueLagoon-1.637d33d8.jpg",
     "static/media/BlueLagoon-10.jpg": "/solesteliving-project/static/media/BlueLagoon-10.de8e1fac.jpg",
     "static/media/BlueLagoon-11.jpg": "/solesteliving-project/static/media/BlueLagoon-11.b6d734b7.jpg",
