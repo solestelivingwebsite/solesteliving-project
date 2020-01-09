@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2063a343b4284b4bb4f2f3950c61045a",
+    "revision": "484966e84bb3e7ec96c10ffaca0dd327",
     "url": "/solesteliving-project/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solesteliving-project/static/css/2.d635dcf5.chunk.css"
   },
   {
-    "revision": "2d632b9482fdd15b2d86",
+    "revision": "9d407b39afc3054e625f",
     "url": "/solesteliving-project/static/css/main.4a93ebb1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solesteliving-project/static/js/2.c29d6618.chunk.js"
   },
   {
-    "revision": "2d632b9482fdd15b2d86",
-    "url": "/solesteliving-project/static/js/main.ac1600bd.chunk.js"
+    "revision": "9d407b39afc3054e625f",
+    "url": "/solesteliving-project/static/js/main.8a190f1b.chunk.js"
   },
   {
     "revision": "766f9f6e7754db22a41c",
