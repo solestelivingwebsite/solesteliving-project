@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ced1725ebb77343f24f22074c2beaff",
+    "revision": "474894aa523170c2ad2929cfb127450a",
     "url": "/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.09a7ce24.chunk.css"
   },
   {
-    "revision": "fb8c76b11c06f17649e9",
-    "url": "/static/css/main.80c58e53.chunk.css"
+    "revision": "6fcc4adebafd3daf0956",
+    "url": "/static/css/main.677be032.chunk.css"
   },
   {
     "revision": "05818244146d55df69f9",
     "url": "/static/js/2.c29d6618.chunk.js"
   },
   {
-    "revision": "fb8c76b11c06f17649e9",
+    "revision": "6fcc4adebafd3daf0956",
     "url": "/static/js/main.22ba25fb.chunk.js"
   },
   {
@@ -84,10 +84,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/BlueLagoon-9.d209c8c8.jpg"
   },
   {
-    "revision": "56f46dad1eaa2583d805f93b57a6e231",
-    "url": "/static/media/GothamBook.56f46dad.woff"
-  },
-  {
     "revision": "747cb7cea951cbb865322e2a85283f53",
     "url": "/static/media/GothamBook.747cb7ce.eot"
   },
@@ -102,10 +98,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0b28710a605aed91211bd25a19081bae",
     "url": "/static/media/GothamMedium.0b28710a.ttf"
-  },
-  {
-    "revision": "364995eced97aa9c15c4bf0249e7d713",
-    "url": "/static/media/GothamMedium.364995ec.woff"
   },
   {
     "revision": "c0ad5406f1be46bfd9991548f455884c",
