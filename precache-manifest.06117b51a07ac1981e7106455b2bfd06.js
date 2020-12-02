@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d32f731bed709ad39b9c6cbce4052a4",
+    "revision": "425cd4791ece8335d68f480e8a8b2bf7",
     "url": "/index.html"
   },
   {
-    "revision": "e8cc80ba704cbdd0c111",
+    "revision": "ac18a7462c0e8cc80710",
     "url": "/static/css/2.e7556e9f.chunk.css"
   },
   {
-    "revision": "01bf863dc496b2fb2551",
-    "url": "/static/css/main.6788d57d.chunk.css"
+    "revision": "c7b9b449c46bdd613abc",
+    "url": "/static/css/main.1e6926fd.chunk.css"
   },
   {
-    "revision": "e8cc80ba704cbdd0c111",
-    "url": "/static/js/2.79736d5b.chunk.js"
+    "revision": "ac18a7462c0e8cc80710",
+    "url": "/static/js/2.3ae7cb2d.chunk.js"
   },
   {
-    "revision": "01bf863dc496b2fb2551",
-    "url": "/static/js/main.3884db2e.chunk.js"
+    "revision": "c7b9b449c46bdd613abc",
+    "url": "/static/js/main.76dc7000.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -924,6 +924,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/app2-blue-lagoon-img-2.a1f05e4c.jpg"
   },
   {
+    "revision": "4e81ca5bc2abf8ab451dca73f0f839be",
+    "url": "/static/media/app2-cityline-img-1.4e81ca5b.jpg"
+  },
+  {
+    "revision": "f4bca208d4cacd0a29770a9e087283f7",
+    "url": "/static/media/app2-cityline-img-2.f4bca208.jpg"
+  },
+  {
     "revision": "56ff59adec76eb8469d1acddc838a53e",
     "url": "/static/media/app2-grandcentral-img-1.56ff59ad.jpg"
   },
@@ -998,6 +1006,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "69ce005b968927ef243dd10cab332921",
     "url": "/static/media/calle-ocho.69ce005b.jpg"
+  },
+  {
+    "revision": "a25399ec03c50d15aa98def76d9c4c8d",
+    "url": "/static/media/cityline-header-bg.a25399ec.jpg"
+  },
+  {
+    "revision": "1cbaec77fb4d7c0778222458bc5ac8c4",
+    "url": "/static/media/cityline-left-img.1cbaec77.jpg"
+  },
+  {
+    "revision": "7f4542aea1c150acd6099e35b1bc53b8",
+    "url": "/static/media/cityline-mid-bottom-img.7f4542ae.jpg"
+  },
+  {
+    "revision": "87f41eabb64b61318104746fc0a0c2f4",
+    "url": "/static/media/cityline-mid-top-img.87f41eab.jpg"
+  },
+  {
+    "revision": "1437f87dbdb2c80ff4332f6583446157",
+    "url": "/static/media/cityline-right-img.1437f87d.jpg"
   },
   {
     "revision": "6c8efe53d114a4f1033ae584374462c6",
@@ -1238,6 +1266,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a7e46f9582d9b73627251da5a403b121",
     "url": "/static/media/z-home-soleste-bluelagoon.a7e46f95.jpg"
+  },
+  {
+    "revision": "b7d73ee0b6a2b83ff1e7f2418945da36",
+    "url": "/static/media/z-home-soleste-cityline.b7d73ee0.jpg"
   },
   {
     "revision": "4c0a6b0b4d70142785968da2ef5f0f91",
